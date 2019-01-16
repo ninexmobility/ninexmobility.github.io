@@ -4,6 +4,11 @@
 
   <title>{{ page.title }} - {{ site.title }}</title>
   <link rel="stylesheet" href="{{ "/assets/css/just-the-docs.css" | absolute_url }}">
+  {% if site.search_enabled != nil %}
+  <script type="text/javascript" src="{{ "/assets/js/vendor/lunr.min.js" | absolute_url }}"></script>
+  {% endif %}
+  <script type="text/javascript" src="{{ "/assets/js/just-the-docs.js" | absolute_url }}"></script>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="apple-touch-icon" sizes="57x57" href="/assets/images/apple-icon-57x57.png">
   <link rel="apple-touch-icon" sizes="60x60" href="/assets/images/apple-icon-60x60.png">
   <link rel="apple-touch-icon" sizes="72x72" href="/assets/images/apple-icon-72x72.png">
@@ -21,9 +26,4 @@
   <meta name="msapplication-TileColor" content="#ffffff">
   <meta name="msapplication-TileImage" content="/assets/images/ms-icon-144x144.png">
   <meta name="theme-color" content="#ffffff">
-  {% if site.search_enabled != nil %}
-  <script type="text/javascript" src="{{ "/assets/js/vendor/lunr.min.js" | absolute_url }}"></script>
-  {% endif %}
-  <script type="text/javascript" src="{{ "/assets/js/just-the-docs.js" | absolute_url }}"></script>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
