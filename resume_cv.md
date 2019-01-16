@@ -31,7 +31,7 @@ updated: 09 Jan 2019
 - VMWare AirWatch Enterprise Mobility Professional
 - MobileIron Certified Administrator (100)
 - MobileIron Certified Sentry & Security Specialist (100)
-- CodeAcadamy - Python, Ruby, Git, Shell
+- [CodeAcadamy](https://www.codecademy.com/nineX) - Python, Ruby, Git, Shell
 - Apple Certified Trainer (iOS, MacOS, T1 & T2)
 - EMM Platforms - AirWatch, MobileIron, Soti, MaaS360, InTune, BES, Good, Citrix
 - Operating Systems - Windows, MacOS, Ubuntu, iOS, Android, Windows Mobile, WinMo Legacy
