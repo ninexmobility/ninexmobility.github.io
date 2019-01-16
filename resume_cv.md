@@ -90,20 +90,17 @@ updated: 09 Jan 2019
 > - Configuration scope, design & deployment
 > - Develop and document configurations on a range of iOS and Windows Mobile device platforms.
 > - Innovation research & deployment
-> - Remote Admin for over 100 Clients with various EMM Platforms & Configurations
+> - Remote Admin for over ~100 Clients with various EMM Platforms & Configurations
     - AirWatch, MobileIron, BES, MaaS360, Citrix, Good, etc.
 
 - 2009-2010: Lead Trainer/Apple Care, Apple, Inc. / Volt Information Sciences
 - 1999-2007: Contact Center Operations Manager, Samsung Mobile.
 
 ### Projects
-- Things
-> - Stuff 1
-> - Stuff 2
+- [createDEVspace](https://joyous-violin.cloudvent.net/)
+> - Jekyll Site based on the Hydra CMS Theme from [CloudCannon](https://app.cloudcannon.com)
+> - createDEVspace serves as a location for various creative outlets
 
-- Stuff
-> - Thing 1
-> - Thing 2
 
 ### References
 
