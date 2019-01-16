@@ -15,10 +15,10 @@
 # in the templates via {{ site.myvariable }}.
 theme: just-the-docs
 color_scheme: "dark"
-title: nineXmobility
+title: willworland
 description: website | blog | thing
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://ninexmobility.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://willworland.com" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: home
 search_enabled: true
 aux_links:
