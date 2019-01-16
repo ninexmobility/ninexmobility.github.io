@@ -1,8 +1,0 @@
-theme: just-the-docs
-color_scheme: "dark"
-title: nineXmobility
-description: website | blog | thing
-search_enabled: true
-aux_links:
-    "nineXmobility on GitHub":
-      - "//github.com/ninexmobility"

@@ -1,3 +1,0 @@
-## Readme
-
-Hi there!
