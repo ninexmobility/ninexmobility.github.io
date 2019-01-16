@@ -6,8 +6,6 @@ nav_order: 1
 has_children: true
 permalink: 
 ---
-![alt-text](/assets/images/ninex_circle_250.png "here's what i look like!")  
-
 ## Hi! My name is Will!
 ---
 I’ve been fascinated by radio frequency since before I can remember. I guess it all started with taking apart radios, phones and walkie-talkies as a kid growing up in the 80’s. From closed system RF & CATV, to IP Networking, WiFi, CDMA, GSM, & LTE and the devices that transmit and receive them, I love it all.
