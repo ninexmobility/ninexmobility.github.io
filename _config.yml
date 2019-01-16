@@ -4,20 +4,5 @@ title: nineXmobility
 description: website | blog | thing
 search_enabled: true
 aux_links:
-    "nineXmobility on GitHub":
-      - "//github.com/ninexmobility"
-'''
-remote_theme: pmarsceill/just-the-docs
-# theme: just-the-docs
-color_scheme: "dark"
-title: willworland
-description: website | blog | thing
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://willworland.com" # the base hostname & protocol for your site, e.g. http://example.com
-permalink: home
-search_enabled: true
-aux_links:
-    "nineXmobility on GitHub":
-      - "//github.com/ninexmobility"
-exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
-'''
+  "nineXmobility on GitHub":
+    - "//github.com/ninexmobility"
