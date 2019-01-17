@@ -8,7 +8,7 @@ nav_order: 4
 
 ### resume | cv 
 updated: 09 Jan 2019
-[pdf version](https://ninexmobility.github.io/assets/files/resume_willworland_201901.pdf)
+- [pdf version](https://ninexmobility.github.io/assets/files/resume_willworland_201901.pdf)
 
 ---
 
