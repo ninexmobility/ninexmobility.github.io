@@ -1,21 +1,10 @@
----
-layout: default
-title: resume_cv
-parent: home
-nav_order: 4
-# nav_exclude: true
----
-
-### resume | cv 
-updated: 09 Jan 2019
-[pdf version](https://ninexmobility.github.io/assets/files/resume_willworland_201901.pdf)
-
----
-
-### Will Worland | Mobility Solutions Consultant | EMM Platform Engineer
+Will Worland | Mobility Solutions Consultant | EMM Platform Engineer
 ----------------
 
-[contact me](https://ninexmobility.github.io/createdevspace/contact/){: .btn .fs-5 }
+- mobile: 1.145.890.5238
+- email: [me@willworland.com](mailto:me@willworland.com)
+- website: [willworland.com](https://willworland.com)
+- location: san francisco | bay area
 
 ----------------
 
