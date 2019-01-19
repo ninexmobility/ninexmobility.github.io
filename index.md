@@ -8,11 +8,11 @@ permalink: /
 ---
 ## Hi! My name is Will!
 ---
-I’ve been fascinated by radio frequency since before I can remember. I guess it all started with taking apart radios, phones and walkie-talkies as a kid growing up in the 80’s. From closed system RF & CATV, to IP Networking, WiFi, CDMA, GSM, & LTE and the devices that transmit and receive them, I love it all.
+I’ve been fascinated by radio frequency since before I can remember. I guess it all started with taking apart radios, phones and walkie-talkies as a kid growing up in the 80’s. From closed system RF & CATV{: .fw-700 .text-blue-100 }, to IP Networking{: .fw-700 .text-blue-100 }, WiFi{: .fw-700 .text-blue-100 }, CDMA{: .fw-700 .text-blue-100 }, GSM{: .fw-700 .text-blue-100 }, & LTE{: .fw-700 .text-blue-100 } and the devices that transmit and receive them, I love it all.
 
 Today I’m just as disruptive, but in a much cooler way. I build and maintain scalable, hardened platforms that secure and manage the mobile phones, tablets and laptop computers that drive todays mosst innovative technologies.
 
-I absolutely love working at companies where I am surrounded by talented people, and cutting edge technology. I’ve had the great pleasure of working for some of the best companies in the world. I cut my teeth in RF as a System Tech at TCI Cablevision (now Time Warner) before the birth of the internet. Since then I’ve worked for Nortel Bay Networks, Samsung, Apple, Honeywell, Southwest Airlines and Uber.
+I absolutely love working at companies where I am surrounded by talented people, and cutting edge technology. I’ve had the great pleasure of working for some of the best companies in the world. I cut my teeth in RF as a System Tech at **TCI Cablevision (now Time Warner)** before the birth of the internet. Since then I’ve worked for **Nortel Bay Networks**, **Samsung**, **Apple**, **Honeywell**, **Southwest Airlines** and **Uber**.
 
 When I'm not at work, I’m chillin’ at home with my wife and kids, camping or teaching myself something new. I’m currently learning Python, Ruby, Chef, Puppet & Jekyll.  I'm also an amature DJ & voice over performer specializing in Audio Books.
 

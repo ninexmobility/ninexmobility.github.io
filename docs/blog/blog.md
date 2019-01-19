@@ -11,5 +11,3 @@ permalink: /docs/blog
 # Blog
 
 **Hello world**
-
----
