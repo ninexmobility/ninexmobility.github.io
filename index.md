@@ -8,7 +8,7 @@ permalink: /
 ---
 ## Hi! My name is Will!
 ---
-I’ve been fascinated by radio frequency since before I can remember. I guess it all started with taking apart radios, phones and walkie-talkies as a kid growing up in the 80’s. From closed system RF & CATV{: .fw-700 .text-blue-100 }, to IP Networking{: .fw-700 .text-blue-100 }, WiFi{: .fw-700 .text-blue-100 }, CDMA{: .fw-700 .text-blue-100 }, GSM{: .fw-700 .text-blue-100 }, & LTE{: .fw-700 .text-blue-100 } and the devices that transmit and receive them, I love it all.
+I’ve been fascinated by radio frequency since before I can remember. I guess it all started with taking apart radios, phones and walkie-talkies as a kid growing up in the 80’s. From closed system RF & CATV, to IP Networking, WiFi, CDMA, GSM, & LTE and the devices that transmit and receive them, I love it all.
 
 Today I’m just as disruptive, but in a much cooler way. I build and maintain scalable, hardened platforms that secure and manage the mobile phones, tablets and laptop computers that drive todays mosst innovative technologies.
 
