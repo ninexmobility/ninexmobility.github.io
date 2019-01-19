@@ -1,9 +1,11 @@
 ---
 layout: default
 title: about
-parent: home
+# parent: home
 nav_order: 2
 # nav_exclude: true
+has_children: true
+permalink: /docs/about
 ---
 
 ### about
@@ -35,3 +37,5 @@ nav_order: 2
 --- 
 > When I'm not working or spending time with the family, I am ususally learning something new.
 > I'm currently studying various programming languages such as Python & Ruby as well as Endpoint Configuration tools like Ansible, Puppet & Chef.
+
+---

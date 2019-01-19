@@ -1,8 +1,8 @@
 ---
 layout: default
 title: resume_cv
-parent: home
-nav_order: 4
+parent: about
+nav_order: 2
 # nav_exclude: true
 ---
 

@@ -4,7 +4,7 @@ title: home
 # nav_exclude: true
 nav_order: 1
 has_children: true
-permalink: 
+permalink: /
 ---
 ## Hi! My name is Will!
 ---

@@ -1,12 +1,13 @@
 ---
 layout: post
 title:  "My First Post!"
+parent: blog
 categories: [blog, first]
 tags: [blog, first]
 # nav_exclude: true
 # nav_order: 1
 # has_children: true
-permalink: 
+# permalink: 
 ---
 
 # Welcome
