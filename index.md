@@ -14,7 +14,7 @@ Today I’m just as disruptive, but in a much cooler way. I build and maintain s
 
 I absolutely love working at companies where I am surrounded by talented people, and cutting edge technology. I’ve had the great pleasure of working for some of the best companies in the world. I cut my teeth in RF as a System Tech at <span style="color:#2869e6">**TCI Cablevision (now Time Warner)**</span> before the birth of the internet. Since then I’ve worked for <span style="color:#2869e6">**Nortel Bay Networks**, **Samsung**, **Apple**, **Honeywell**, **Southwest Airlines**</span> and <span style="color:#2869e6">**Uber**</span>.
 
-When I'm not at work, I’m chillin’ at home with my wife and kids, camping or teaching myself something new. I’m currently learning Python, Ruby, Chef, Puppet & Jekyll.  I'm also an amature DJ & voice over performer specializing in Audio Books.
+When I'm not at work, I’m chillin’ at home with my wife and kids, camping or teaching myself something new. I’m currently learning <span style="color:#2869e6">**Python**, **Ruby**, **Chef**, **Ansible**, **Puppet** & **Jekyll/Liquid/Markdown**</span>.  I'm also an amature DJ & voice over performer specializing in Audio Books.
 
 I’m always interested in connecting with cool people who like to do fun stuff with computers. Reach out and tell me what you’re working on, maybe we can learn from each other!
 
