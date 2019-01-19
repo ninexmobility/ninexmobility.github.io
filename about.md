@@ -27,7 +27,7 @@ nav_order: 2
 ---
 ### engineer
 ---
-> My professional history is based in Mobile Tecnologies.  My specialty is Architechting and Engineering full scale Mobile Security Platforms for Enterprise Organizations.
+> My professional history is based in Mobile Technologies.  My specialty is Architechting and Engineering full scale Mobile Security Platforms for Enterprise Organizations.
 > - Check out my [resume](https://ninexmobility.github.io/resume_cv) for full details
 
 ---
