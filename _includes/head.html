@@ -1,8 +1,27 @@
 <head>
+  <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})
+    (window,document,'script','dataLayer','GTM-PN9XMLJ');</script>
+  <!-- End Google Tag Manager -->
+
+    <title>{{ page.title }} - {{ site.title }}</title>
+  <!-- meta tags -->
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
-  
-    <title>{{ page.title }} - {{ site.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="https://ninexmobility.github.io/assets/images/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+    <meta property="og:site_name" content="willworland.com"/>
+    <meta property="og:title" content="Mobility Consultant | IT Engineer"/>
+    <meta property="og:description" content="The professional website of Will Worland.  Will is a Mobility Consultant with over 20 years of experience building and maintaining scalable mobility support platforms and dynamic teams.."/>
+    <meta property="og:image" content="https://ninexmobility.github.io/assets/images/ninex_circle_main.png">
+    <meta property="og:url" content="https://ninexmobility.github.io/">
+    <meta property="og:type" content="website/jekyll"/>
+  <!-- end meta tags -->
+
+  <!-- styles and icons -->
     <link rel="stylesheet" href="{{ "/assets/css/just-the-docs.css" | absolute_url }}">
     <link rel="stylesheet" href="https://ninexmobility.github.io/assets/css/just-the-docs.css">
     <link rel="apple-touch-icon" sizes="57x57" href="https://ninexmobility.github.io/assets/images/apple-icon-57x57.png">
@@ -19,27 +38,14 @@
     <link rel="icon" type="image/png" sizes="96x96" href="https://ninexmobility.github.io/assets/images/favicon-96x96.png">
     <link rel="icon" type="image/png" sizes="16x16" href="https://ninexmobility.github.io/assets/images/favicon-16x16.png">
     <link rel="manifest" href="https://ninexmobility.github.io/manifest.json">
-    <meta name="msapplication-TileColor" content="#ffffff">
-    <meta name="msapplication-TileImage" content="https://ninexmobility.github.io/assets/images/ms-icon-144x144.png">
-    <meta name="theme-color" content="#ffffff">
-    <meta property="og:site_name" content="willworland.com"/>
-    <meta property="og:title" content="Mobility Consultant | IT Engineer"/>
-    <meta property="og:description" content="The professional website of Will Worland.  Will is a Mobility Consultant with over 20 years of experience building and maintaining scalable mobility support platforms and dynamic teams.."/>
-    <meta property="og:image" content="https://ninexmobility.github.io/assets/images/ninex_circle_main.png">
-    <meta property="og:url" content="https://ninexmobility.github.io/">
-    <meta property="og:type" content="website/jekyll"/>
+  <!-- end style and icons -->
+  
+  <!-- scripts -->
     {% if site.search_enabled != nil %}
-    <script type="text/javascript" src="{{ "/assets/js/vendor/lunr.min.js" | absolute_url }}"></script>
-    <script type="text/javascript" src="https://ninexmobility.github.io/assets/js/vendor/lunr.min.js"></script>
+      <script type="text/javascript" src="{{ "/assets/js/vendor/lunr.min.js" | absolute_url }}"></script>
+      <script type="text/javascript" src="https://ninexmobility.github.io/assets/js/vendor/lunr.min.js"></script>
     {% endif %}
-    <script type="text/javascript" src="{{ "/assets/js/just-the-docs.js" | absolute_url }}"></script>
-    <script type="text/javascript" src="https://ninexmobility.github.io/assets/js/just-the-docs.js"></script>
-    <script type="text/javascript">
-    <!-- 
-      if (screen.width <= 800) {
-        window.location = "https://ninexmobility.github.io/";
-      }
-      //-->
-      </script>
-      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  </head>
+      <script type="text/javascript" src="{{ "/assets/js/just-the-docs.js" | absolute_url }}"></script>
+      <script type="text/javascript" src="https://ninexmobility.github.io/assets/js/just-the-docs.js"></script>
+  <!-- end scripts -->
+</head>
