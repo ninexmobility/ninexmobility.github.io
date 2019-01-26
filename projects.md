@@ -4,6 +4,7 @@ title: projects
 parent: home
 nav_order: 4 
 # nav_exclude: true
+permalink: /projects
 ---
 
 ### projects 

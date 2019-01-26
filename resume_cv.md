@@ -4,6 +4,7 @@ title: resume_cv
 parent: home
 nav_order: 5
 # nav_exclude: true
+permalink: /resume_cv
 ---
 
 ### resume | cv 
