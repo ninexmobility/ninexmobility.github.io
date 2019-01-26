@@ -1,8 +1,8 @@
 ---
 layout: default
 title: projects
-parent: about
-nav_order: 1 
+parent: /
+nav_order: 4 
 # nav_exclude: true
 ---
 
