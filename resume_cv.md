@@ -99,10 +99,8 @@ updated: 09 Jan 2019
 - 1999-2007: Contact Center Operations Manager, Samsung Mobile.
 
 ### Projects
-- [createDEVspace](https://joyous-violin.cloudvent.net/)
-> - Jekyll Site based on the Hydra CMS Theme from [CloudCannon](https://app.cloudcannon.com)
-> - createDEVspace serves as a location for various creative outlets
-
+- Click below to see what I'm working on!
+- [projects](/projects)
 
 ### References
 
