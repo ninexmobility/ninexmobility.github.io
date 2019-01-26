@@ -10,7 +10,7 @@ permalink: /projects
 ### projects 
 ---
 
-[createdevspace.miradoreonline.com](https://createdevspace.miradoreonline.com/)
+[miradoreonline](https://createdevspace.miradore.com/)
 
 - my personal MDM Playground.  Miradore Online provides a free / low cost MDM option.
 - I manage my families devices here and do early design work for consultations.
