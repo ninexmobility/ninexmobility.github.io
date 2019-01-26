@@ -2,7 +2,7 @@
 layout: default
 title: resume_cv
 # parent: home
-nav_order: 5
+nav_order: 3
 # nav_exclude: true
 permalink: /resume_cv
 ---
