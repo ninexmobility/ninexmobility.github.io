@@ -43,7 +43,7 @@ updated: 09 Jan 2019
 
 ### Employment 
 
-- 2019-Current: Engineer III, Field Mobility Operations | Enterprise Holdings Inc.
+- 2019-Current: Engineer III, Field Mobility Operations, Enterprise Holdings Inc.
 
 > - Mobile Platform & Device Security Engineering
 > - Soti MobiControl v13/14 - Architecture & Engineering
@@ -56,9 +56,9 @@ updated: 09 Jan 2019
 
 - 2019-2019: Mobility Consultant, nineXmobility.
 
-> - Feb-Mar: Albertsons / Safeway via ASG | webPOS Android Project
+> - Feb-Mar: Albertsons / Safeway via ASG / webPOS Android Project
 > - - Ivanti Wavelink Avalanche & Zebra Android TC51 Consult
-> - Feb: Synopsis via Corus360 | MobileIron O365 Migration Consult
+> - Feb: Synopsis via Corus360 / MobileIron O365 Migration Consult
 
 - 2017-2019: Systems Engineer II, Uber Technologies Inc.
 
