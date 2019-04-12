@@ -43,6 +43,23 @@ updated: 09 Jan 2019
 
 ### Employment 
 
+- 2019-Current: Engineer III, Field Mobility Operations | Enterprise Holdings Inc.
+
+> - Mobile Platform & Device Security Engineering
+> - Soti MobiControl v13/14 - Architecture & Engineering
+> - Android OS - Security & Patch Management
+> - Samsung KNOX & KME Administration
+> - EMM Analytics, Insights, Intelligence & Reporting
+> - EMM/MDM Automation, Python API Scripting & Development
+> - Certificate Management
+> - Documentation, Training & Coaching
+
+- 2019-2019: Mobility Consultant, nineXmobility.
+
+> - Feb-Mar: Albertsons / Safeway via ASG | webPOS Android Project
+> - - Ivanti Wavelink Avalanche & Zebra Android TC51 Consult
+> - Feb: Synopsis via Corus360 | MobileIron O365 Migration Consult
+
 - 2017-2019: Systems Engineer II, Uber Technologies Inc.
 
 > - Mobility Thought Leader for Client Platform Engineering Team.
@@ -97,6 +114,9 @@ updated: 09 Jan 2019
 
 - 2009-2010: Lead Trainer/Apple Care, Apple, Inc. / Volt Information Sciences
 - 1999-2007: Contact Center Operations Manager, Samsung Mobile.
+- 1998-1999: RF Technician, Nortel Bay Networks.
+- 1996-1998: Systems Technician, TCI Cablevision
+- 1992-1996: Line Cook, Sous Chef, Chef, Seattle Area Restraunts
 
 ### Projects
 - Click below to see what I'm working on!
