@@ -48,9 +48,10 @@ updated: 09 Jan 2019
 > - Mobile Platform & Device Security Engineering
 > - Soti MobiControl v13/14 - Architecture & Engineering
 > - Android OS - Security & Patch Management
-> - Samsung KNOX & KME Administration
+> - Samsung KNOX, KME & EFOTA Administration
 > - EMM Analytics, Insights, Intelligence & Reporting
 > - EMM/MDM Automation, Python API Scripting & Development
+> - Secure SIM / MPLS Integration & Adminstration
 > - Certificate Management
 > - Documentation, Training & Coaching
 
